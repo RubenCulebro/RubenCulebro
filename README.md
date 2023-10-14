@@ -1,7 +1,7 @@
 ### Hi there 👋 
- 🔭 I’m currently working on aapplied Java programming projects
-  🌱 I’m currently learning numpy and pandas library for data analysis
-  👯 I’m looking to collaborate on MERN
+ 🔭 I’m currently working on aapplied Java programming projects.
+  🌱 I’m currently learning numpy and pandas library for data analysis.
+  👯 I’m looking to collaborate on MERN projects.
 
 <!--
 **RubenCulebro/RubenCulebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
