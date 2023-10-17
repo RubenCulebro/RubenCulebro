@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruben Culebro</h1>
+<h1 align="center">Hi 👋, My name is Ruben Culebro</h1>
 <h2 align="center"> I'm a student from College of the North Atlantic looking for a minimum of 7-week work exposure opportunity as part of my educational journey. :) </h2>
 
 <h3 align="left">Languages & Tools I have studied:</h3>
